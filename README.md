@@ -155,30 +155,5 @@ Prácticas desarrolladas dentro del entorno **Microsoft Fabric** (Synapse Analyt
 
 ---
 
-## Cómo ejecutar
-
-### CRUD_ON_DB
-```bash
-# Levantar las bases de datos
-cd CRUD_ON_DB
-docker-compose up -d
-
-# Ejecutar cualquier ejercicio
-python crud_create.py
-python transaction_rollback.py
-```
-
-### Notebooks
-```bash
-# Crear entorno virtual e instalar dependencias
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-pip install pandas numpy matplotlib seaborn scikit-learn scipy networkx simpy ydata-profiling jupyter ucimlrepo
-
-# Abrir Jupyter
-jupyter notebook
-```
-
----
 
 *Trabajo en progreso — construido de forma incremental mientras avanzo en mi formación como Ingeniero de Datos.*
