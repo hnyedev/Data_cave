@@ -1,0 +1,78 @@
+# ── Virtual environments ──────────────────────────────────
+venv/
+venv_ds/
+env/
+.env/
+.venv/
+ENV/
+
+# ── Python cache ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Distribution / packaging ──────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+site-packages/
+
+# ── Installed packages (site-packages inside venv) ────────
+lib/
+lib64/
+include/
+
+# ── Environment variables / secrets ──────────────────────
+.env
+.env.*
+*.env
+secrets.yaml
+config_local.py
+
+# ── Data files (heavy) ────────────────────────────────────
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.sqlite3
+
+# ── ML model artifacts ────────────────────────────────────
+*.ckpt
+*.ckpt.*
+*.pb
+saved_model/
+mlruns/
+mlartifacts/
+
+# ── OS junk ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE configs ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Auto-generated reports ────────────────────────────────
+eda_report*.html
+profile_report*.html

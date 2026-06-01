@@ -1,0 +1,702 @@
+[
+  {
+    "timestamp": "2026-02-03T08:53:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 28.81,
+    "humidity": 59.96,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T08:58:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 29.42,
+    "humidity": 63.53,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T09:03:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 29.06,
+    "humidity": 63.4,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T09:08:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 23.02,
+    "humidity": 73.61,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T09:13:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 29.9,
+    "humidity": 59.74,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T09:18:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 18.89,
+    "humidity": 85.89,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T09:23:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 28.21,
+    "humidity": 65.84,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T09:28:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 25.86,
+    "humidity": 69.19,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T09:33:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 27.99,
+    "humidity": 67.64,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T09:38:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 21.3,
+    "humidity": 79.3,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T09:43:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 25.32,
+    "humidity": 70.98,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T09:48:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 24.15,
+    "humidity": 71.64,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T09:53:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 24.66,
+    "humidity": 73.99,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T09:58:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 19.95,
+    "humidity": 86.17,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T10:03:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 28.58,
+    "humidity": 60.84,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T10:08:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 22.06,
+    "humidity": 76.47,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T10:13:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 26.74,
+    "humidity": 66.1,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T10:18:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 30.2,
+    "humidity": 62.54,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T10:23:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 30.37,
+    "humidity": 57.33,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T10:28:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 30.55,
+    "humidity": 56.82,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T10:33:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 21.81,
+    "humidity": 81.95,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T10:38:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 29.45,
+    "humidity": 64.98,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T10:43:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 20.31,
+    "humidity": 84.58,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T10:48:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 21.11,
+    "humidity": 78.42,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T10:53:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 20.36,
+    "humidity": 81.3,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T10:58:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 23.65,
+    "humidity": 71.51,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T11:03:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 31.47,
+    "humidity": 53.83,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T11:08:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 27.97,
+    "humidity": 61.55,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T11:13:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 21.73,
+    "humidity": 85.43,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T11:18:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 18.46,
+    "humidity": 87.29,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T11:23:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 21.35,
+    "humidity": 78.06,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T11:28:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 31.8,
+    "humidity": 52.92,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T11:33:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 28.66,
+    "humidity": 60.72,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T11:38:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 29.24,
+    "humidity": 61.59,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T11:43:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 26.87,
+    "humidity": 68.18,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T11:48:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 20.11,
+    "humidity": 84.81,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T11:53:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 30.02,
+    "humidity": 58.22,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T11:58:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 27.96,
+    "humidity": 68.2,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T12:03:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 20.44,
+    "humidity": 85.81,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T12:08:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 31.11,
+    "humidity": 53.59,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T12:13:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 19.59,
+    "humidity": 90.28,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T12:18:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 27.74,
+    "humidity": 62.93,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T12:23:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 31.75,
+    "humidity": 55.79,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T12:28:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 21.39,
+    "humidity": 77.47,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T12:33:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 30.61,
+    "humidity": 59.82,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T12:38:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 21.9,
+    "humidity": 82.24,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T12:43:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 29.99,
+    "humidity": 59.07,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T12:48:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 26.99,
+    "humidity": 63.37,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T12:53:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 27.37,
+    "humidity": 67.39,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T12:58:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 31.16,
+    "humidity": 61.83,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T13:03:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 20.25,
+    "humidity": 84.86,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T13:08:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 24.28,
+    "humidity": 79.25,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T13:13:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 18.25,
+    "humidity": 89.31,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T13:18:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 28.09,
+    "humidity": 62.85,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T13:23:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 23.15,
+    "humidity": 74.78,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T13:28:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 26.26,
+    "humidity": 74.14,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T13:33:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 30.49,
+    "humidity": 60.09,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T13:38:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 22.9,
+    "humidity": 79.2,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T13:43:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 24.9,
+    "humidity": 69.71,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T13:48:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 24.99,
+    "humidity": 73.25,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T13:53:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 18.61,
+    "humidity": 93.42,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T13:58:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 31.36,
+    "humidity": 60.76,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T14:03:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 28.47,
+    "humidity": 68.36,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T14:08:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 23.99,
+    "humidity": 79.68,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T14:13:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 31.72,
+    "humidity": 51.44,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T14:18:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 23.39,
+    "humidity": 80.03,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T14:23:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 20.37,
+    "humidity": 84.64,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T14:28:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 29.82,
+    "humidity": 64.75,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T14:33:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 19.36,
+    "humidity": 87.75,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T14:38:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 23.02,
+    "humidity": 74.99,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T14:43:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 30.28,
+    "humidity": 61.7,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T14:48:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 19.91,
+    "humidity": 87.31,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T14:53:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 22.11,
+    "humidity": 82.82,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T14:58:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 21.59,
+    "humidity": 82.15,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:03:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 18.07,
+    "humidity": 91.1,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T15:08:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 18.99,
+    "humidity": 86.48,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:13:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 30.46,
+    "humidity": 57.23,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:18:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 19.32,
+    "humidity": 87.49,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:23:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 22.59,
+    "humidity": 75.07,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:28:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 22.01,
+    "humidity": 80.88,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:33:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 21.5,
+    "humidity": 76.63,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T15:38:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 23.04,
+    "humidity": 73.66,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T15:43:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 29.59,
+    "humidity": 58.74,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T15:48:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 24.4,
+    "humidity": 77.42,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T15:53:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 25.57,
+    "humidity": 72.45,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T15:58:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 31.57,
+    "humidity": 58.21,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T16:03:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 29.13,
+    "humidity": 59.88,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T16:08:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 19.1,
+    "humidity": 82.51,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T16:13:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 19.13,
+    "humidity": 86.45,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T16:18:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 18.81,
+    "humidity": 92.12,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T16:23:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 21.5,
+    "humidity": 81.73,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T16:28:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 27.24,
+    "humidity": 64.69,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T16:33:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 28.33,
+    "humidity": 64.72,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T16:38:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 28.22,
+    "humidity": 59.93,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T16:43:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 22.98,
+    "humidity": 80.12,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T16:48:00.632646",
+    "sensor_id": "SENSOR_001",
+    "temperature": 22.79,
+    "humidity": 73.95,
+    "location": "Zone_C"
+  },
+  {
+    "timestamp": "2026-02-03T16:53:00.632646",
+    "sensor_id": "SENSOR_002",
+    "temperature": 18.57,
+    "humidity": 92.13,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T16:58:00.632646",
+    "sensor_id": "SENSOR_003",
+    "temperature": 24.64,
+    "humidity": 69.38,
+    "location": "Zone_A"
+  },
+  {
+    "timestamp": "2026-02-03T17:03:00.632646",
+    "sensor_id": "SENSOR_004",
+    "temperature": 24.63,
+    "humidity": 70.16,
+    "location": "Zone_B"
+  },
+  {
+    "timestamp": "2026-02-03T17:08:00.632646",
+    "sensor_id": "SENSOR_005",
+    "temperature": 27.1,
+    "humidity": 62.74,
+    "location": "Zone_B"
+  }
+]
